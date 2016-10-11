@@ -1,0 +1,7 @@
+//basic c++ program
+#include<iostream.h>
+Main()
+{
+cout<<"basic cpp program";
+getch();
+}
